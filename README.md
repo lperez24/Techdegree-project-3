@@ -1,2 +1,2 @@
-# Techdegree Project 3
- My third techdegree project
+# github-testing-repo
+ Just trying github for the first time
